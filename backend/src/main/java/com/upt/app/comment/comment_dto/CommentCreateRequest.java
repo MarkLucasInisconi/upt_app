@@ -1,4 +1,4 @@
-package com.upt.app.comment.dto;
+package com.upt.app.comment.comment_dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
